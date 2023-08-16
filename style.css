@@ -362,6 +362,7 @@ skills .skills-content .left label:hover{
 .skills .skills-content .right .info{
     display: flex;
     margin-bottom: 5px;
+    padding-left: 200px; 
     align-items: center;
     justify-content: space-between;
 }
@@ -383,7 +384,7 @@ skills .skills-content .left label:hover{
     top: 0;
     background: #A084E8;
 }
-.skills-content .right .java::before{
+/*.skills-content .right .java::before{
     width: 90%;
 }
 .skills-content .right .html::before{
@@ -400,7 +401,7 @@ skills .skills-content .left label:hover{
 }
 .skills-content .right .DSA::before{
     width: 70%;
-}
+}*/
 
 
 
